@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "get-data-montly",
+      "gen": "GEN_2",
+      "revision": "get-data-montly-00012-rag",
+      "entryPoint": "get-data-montly",
+      "region": "us-east1",
+      "runtime": "nodejs20",
+      "testInput": ""
+    }
+  ]
+}
